@@ -1,7 +1,7 @@
 # Upper
 
 Generic container that archives Podman named volumes and uploads them to Google Drive via [rclone](https://rclone.org). Designed to run as a **oneshot** container triggered by a **systemd timer** via Podman Quadlets.
-*Disclaimer: Generated with AI. This is a very simple project, but still, keep best security practices in mind and audit before using.*
+- *Disclaimer: Generated with AI. This is a very simple project, but still, keep best security practices in mind and audit before using.*
 
 ## How it works
 
